@@ -14,4 +14,4 @@
 
 ♥️ If you love our work, please consider [supporting us](https://www.buymeacoffee.com/68publishers)️.
 
-🔥 burn to develop
+🔥 Burn to develop
