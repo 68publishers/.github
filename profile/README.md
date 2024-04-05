@@ -1,5 +1,3 @@
-## Born to develop
-
 ### New projects
 
 <div style="text-align: center">
@@ -14,4 +12,6 @@
 
 👉 Contact us for more info. 
 
-♥️If you love our work, please consider [supporting us](https://www.buymeacoffee.com/68publishers)️.
+♥️ If you love our work, please consider [supporting us](https://www.buymeacoffee.com/68publishers)️.
+
+🔥 burn to develop
