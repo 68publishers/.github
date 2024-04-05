@@ -9,4 +9,4 @@
 <br>
 👉 Contact us for more info. 
 
-♥️ We greatly appreciate [your support](http//https://www.buymeacoffee.com/68publishers)️.
+♥️ We greatly appreciate [your support](https://www.buymeacoffee.com/68publishers)️.
