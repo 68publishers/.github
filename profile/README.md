@@ -10,8 +10,8 @@
 </div>
 <br>
 
-<p style="display: flex; justify-content: space-between; flex-wrap: wrap;">
-        <span style="margin: 1em">👉 <a href="mailto:hello@68publishers.io">Contact us</a> for more info</span>
-        <span style="margin: 1em">♥️ If you love our work, please consider <a href="https://www.buymeacoffee.com/68publishers)">supporting us</a>️</span>
-        <span style="margin: 1em">🔥 Burn to develop</span>
-</p>
+👉 [Contact us](mailto:hello@68publishers.io) for more info
+
+♥️ If you love our work, please consider [supporting us](https://www.buymeacoffee.com/68publishers)️
+
+🔥 Burn to develop
