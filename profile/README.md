@@ -1,7 +1,7 @@
 ### Upcoming projects
 
 <div style="text-align: center">
-    <img src="https://github.com/68publishers/.github/raw/main/profile/omni-one-landscape.webp"
+    <img src="https://github.com/68publishers/.github/raw/main/profile/omni-one-r16.webp"
         alt="omni one"
         title="Full-featured solution for your e-commerce" width="100%">
     <!--
