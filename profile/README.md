@@ -14,6 +14,4 @@
 
 👉 [Contact us](mailto:hello@68publishers.io) for more info
 
-♥️ If you love our work, please consider [supporting us](https://www.buymeacoffee.com/68publishers)️
-
-🔥 Burn to develop
+♥️ Enjoying our work? Show some love by [supporting us](https://www.buymeacoffee.com/68publishers).️
